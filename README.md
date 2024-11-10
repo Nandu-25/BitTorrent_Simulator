@@ -26,7 +26,7 @@ This project aims to simulate the BitTorrent Protocol and a Peer-to-Peer (P2P) n
 1. **Clone the Repository**
 ```
 git clone https://github.com/Nandu-25/BitTorrent_Simulator.git
-cd BitTorrent-simulator
+cd BitTorrent_Simulator
 ```
 2. **Install Dependencies**
 ```
