@@ -1,6 +1,6 @@
 aiohttp==3.10.10
 async-timeout==5.0.0
-bencodepy==4.0.0
+bencodepy==0.9.4
 bitarray==3.0.0
 chardet==5.2.0
 multidict==6.1.0
